@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1708038118 source:c:\users\user\desktop\karpets-task_7_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1708040669 source:c:\users\user\desktop\bmtp-lab7-karpets\prj\karpets-task_7_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
